@@ -8,7 +8,7 @@ from ideation and planning, all the way to finalizing the content with artistic 
 
 <p align="center">
   <a href="https://www.youtube.com/@Max0Rado?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://studio.youtube.com/channel/UCV7_WjspeTsJoTsWTmjuTrg/analytics/tab-overview/period-default/explore?entity_type=CHANNEL&entity_id=UCV7_WjspeTsJoTsWTmjuTrg&time_period=4_weeks&explore_type=SUBSCRIBERS"/></a>
   <a href="https://www.youtube.com/c/max0rado">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
