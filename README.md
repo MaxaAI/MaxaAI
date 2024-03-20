@@ -7,7 +7,7 @@ All coding projects are built from the ground up, from planning and designing al
 from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube & Instagram channel "max0rado"
 
 <p align="center">
-  <a href="https://www.youtube.com/c/Max0Rado?sub_confirmation=1">
+  <a href="https://www.youtube.com/@Max0Rado?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
